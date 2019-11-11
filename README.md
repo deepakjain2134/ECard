@@ -10,7 +10,7 @@ Sample ASP.NET Core reference application, powered by Microsoft, demonstratinddf
 
 This reference application is meant to support the free .PDF download ebook: [Architecting Modern Web Applications with ASP.NET Core and Azure](https://aka.ms/webappebook), updated to **ASP.NET Core 2.2**. [Also available in ePub/mobi formats](https://dotnet.microsoft.com/learn/web/aspnet-architecture). this is the fkjdalfalfla
 
-You can also read the book in online pages at the .NET docs here: 
+You can also read the book in online pages at the .NET docs here: krlkerfaefalsdfslafkl
 https://docs.microsoft.com/en-us/dotnet/standard/modern-web-apps-azure-architecture/
 
 [<img src="https://user-images.githubusercontent.com/782127/52731698-5e910500-2f8c-11e9-80fa-5be7dee4888b.png" height="300" />](https://dotnet.microsoft.com/learn/web/aspnet-architecture)
