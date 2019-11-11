@@ -6,7 +6,7 @@
 >>>>>>> 7aba62774004e99c58b27c6446bd3cdec29fb93b
 >>>>>>> 1af1cf32cf5658a62f679396a05c0ef1bd739e0c
 
-Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a single-process (monolithic) application architecture and deployment model. If you're new to .NET development, read the [Getting Started for Beginners](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners) guide.
+Sample ASP.NET Core reference application, powered by Microsoft, demonstratinddfadfajlfajkdfaljg a single-process (monolithic) application architecture and deployment model. If you're new to .NET development, read the [Getting Started for Beginners](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners) guide.
 
 This reference application is meant to support the free .PDF download ebook: [Architecting Modern Web Applications with ASP.NET Core and Azure](https://aka.ms/webappebook), updated to **ASP.NET Core 2.2**. [Also available in ePub/mobi formats](https://dotnet.microsoft.com/learn/web/aspnet-architecture). this is the fkjdalfalfla
 
