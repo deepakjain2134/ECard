@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # Microsoft eShopOnWeb ASP.NET Core Reference Application19
 =======
-# Microsoft eShopOnWeb ASP.NET Core Reference Application12
+# Microsoft eShopOnWeb ASP.NET Core Reference Application12dsdsa
 >>>>>>> 7aba62774004e99c58b27c6446bd3cdec29fb93b
 
 Sample ASP.NET Core reference application, powered by Microsoft, demonstrating a single-process (monolithic) application architecture and deployment model. If you're new to .NET development, read the [Getting Started for Beginners](https://github.com/dotnet-architecture/eShopOnWeb/wiki/Getting-Started-for-Beginners) guide.
